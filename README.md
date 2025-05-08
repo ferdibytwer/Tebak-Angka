@@ -1,4 +1,4 @@
-## 🎯 Tebak-Angka
+## 🎯 Tebak Angka
 Siap menantang logika dan naluri kamu? Di game Tebak Angka, kamu harus menebak angka rahasia yang dipilih secara acak oleh komputer. Setiap tebakan membawamu lebih dekat ke kemenangan atau justru ke jurang kekalahan!
 
 #### 🚀 Cara Menjalankan Game
