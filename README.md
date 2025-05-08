@@ -3,7 +3,7 @@ Siap menantang logika dan naluri kamu? Di game Tebak Angka, kamu harus menebak a
 
 #### 🚀 Cara Menjalankan Game
 ✅ **Cara 1: Jalankan File .exe (tanpa Python)**
-- Clone atau download repository ini
+- Clone atau download repository ini(klik code -> donwload zip -> extract)
 - Masuk ke folder dist/
 - Jalankan file .exe di dalam folder tersebut
 
